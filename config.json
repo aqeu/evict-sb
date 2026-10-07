@@ -1,0 +1,24 @@
+  {
+    "token": "Your Discord Token Here",
+    "prefix": "!",
+    "autoreact": false,
+    "autoreply": false,
+    "spam_words": ["FUCK", "DIE", "LOL", "NIGGER", "FAGGOT", "CUNT", "BITCH"],
+    "insults": [                                                                                                      
+      "You're a fucking retard",                                                                                      
+      "Your mom is a whore",                                                                                          
+      "Go kill yourself",                                                                                             
+      "You're worthless",                                                                                             
+      "Fucking cumdumpster",
+      "Eat shit and die"
+    ],                                                                                                                
+    "rickroll_links": [
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+    ],
+    "anti_detection": {
+      "random_delays": true,
+      "stealth_mode": false,
+      "avoid_rate_limits": true
+    }
+  }
